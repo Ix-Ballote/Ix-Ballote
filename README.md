@@ -11,16 +11,16 @@
 Blending over 5 years of experience in oncological clinical research, bioinformatics and bioethics, I transform data and language into impactful solutions and experiences.
 
 ## Professional Highlights 🌟
-* Biomedical Engineer - Cozumel, Mexico (2024 - Present)
-* Biomedical Technician - Cozumel, Mexico (2022 - 2024)
+* <b> Biomedical Engineer </b> - Cozumel, Mexico (2024 - Present)
+* <b> Biomedical Technician </b> - Cozumel, Mexico (2022 - 2024)
 
 ## Tech Toolbox 🛠️
-* Languages: Python, SQL, Matlab, Linux
-* Frameworks & Libraries: Pandas, Numpy, Scikit-Learn, Matplotlib, PyTorch
+* <b> Languages: </b> Python, SQL, Matlab, Linux
+* <b> Frameworks & Libraries: </b> Pandas, Numpy, Scikit-Learn, Matplotlib, PyTorch
 
 ## Education 🎓
-* Graduate student in biomedical sciences and technologies - INAOE - Puebla, Mexico (2019 - 2022)
-* Undergraduate student - Merida, Mexico (2014 - 2018)
+* <b> Graduate student in biomedical sciences and technologies </b> - INAOE - Puebla, Mexico (2019 - 2022)
+* <b> Undergraduate student </b> - Merida, Mexico (2014 - 2018)
 
 ## Certifications 📜
 * <b> TripleTen: </b> Data Science Boothcamp
