@@ -16,15 +16,15 @@ Blending over 5 years of experience in oncological clinical research, bioinforma
 
 ## Tech Toolbox 🛠️
 * Languages: Python, SQL, Matlab, Linux
-* Frameworks & Libraries: PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
+* Frameworks & Libraries: Pandas, Numpy, Scikit-Learn, Matplotlib, PyTorch
 
 ## Education 🎓
 * Graduate student in biomedical sciences and technologies - INAOE - Puebla, Mexico (2019 - 2022)
 * Undergraduate student - Merida, Mexico (2014 - 2018)
 
 ## Certifications 📜
-* <b> TripleTen: <b> Data Science Boothcamp
-* <b> Coursera: <b> Google Data Analytics Professional Certificate
+* <b> TripleTen: </b> Data Science Boothcamp
+* <b> Coursera: </b> Google Data Analytics Professional Certificate, Google AI Essentials, Finding Hidden Messages in DNA (Bioinformatics I)
 
 
 <!--
