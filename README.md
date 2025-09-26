@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 Hello, I'm Jesús! 👋
+
+## 🚀 Biomedicl Engineer focusing on Data Science
+
+📍 Mexico
+📧 Email: jesus.ixb@gmail.com
+🔗 LinkedIn: [Ix-Ballote](www.linkedin.com/in/adrian-ix-ballote)
+👨‍💻 GitHub: [Ix-Ballote](https://github.com/Ix-Ballote)
+
+# About Me 🌐
+Blending over 5 years of experience in oncological clinical research, bioinformatics and bioethics, I transform data and language into impactful solutions and experiences.
 
 <!--
 **Ix-Ballote/Ix-Ballote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
