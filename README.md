@@ -6,6 +6,7 @@
 📧 Email: jesus.ixb@gmail.com <br>
 🔗 LinkedIn: [Ix-Ballote](www.linkedin.com/in/adrian-ix-ballote) <br>
 👨‍💻 GitHub: [Ix-Ballote](https://github.com/Ix-Ballote) <br>
+💡 PubMed: [Adrián Ix-Ballote](https://pubmed.ncbi.nlm.nih.gov/?term=Ix-Ballote+A&cauthor_id=34506835) <br>
 
 ## About Me 🌐
 Blending over 5 years of experience in oncological clinical research, bioinformatics and bioethics, I transform data and language into impactful solutions and experiences.
