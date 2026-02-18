@@ -4,6 +4,7 @@
 
 📍 Mexico <br>
 📧 Email: jesus.ixb@gmail.com <br>
+🌐 Página Web: https://ix-ballote.carrd.co/ <br>
 🔗 LinkedIn: [Ix-Ballote](www.linkedin.com/in/adrian-ix-ballote) <br>
 👨‍💻 GitHub: [Ix-Ballote](https://github.com/Ix-Ballote) <br>
 💡 PubMed: [Adrián Ix-Ballote](https://pubmed.ncbi.nlm.nih.gov/?term=Ix-Ballote+A&cauthor_id=34506835) <br>
